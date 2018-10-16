@@ -6,7 +6,7 @@ Simple Node.js wrapper around the [Resource Hacker](http://www.angusj.com/resour
 ## Install
 
 ```
-$ npm install node-resource-hacker --save-dev
+$ npm install @erhhung/node-resource-hacker --save-dev
 ```
 
 This wrapper is written using async/await support in ES8, and will require Node.js 8.0 at a minimum.
@@ -18,7 +18,7 @@ Make sure your network proxy environment variable `http_proxy` is already set, i
 ## Usage
 
 ```javascript
-import hacker from 'node-resource-hacker';
+import hacker from '@erhhung/node-resource-hacker';
 
 async function setIcon() {
   try {

@@ -1,7 +1,7 @@
 {
-  "name": "node-resource-hacker",
+  "name": "@erhhung/node-resource-hacker",
   "version": "1.0.0",
-  "description": "Node.js wrapper for Resource Hacker",
+  "description": "Async Node.js wrapper for Resource Hacker v5.1.6+",
   "repository": {
     "type": "git",
     "url": "https://github.com/erhhung/node-resource-hacker.git"
